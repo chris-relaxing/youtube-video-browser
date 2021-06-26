@@ -1,0 +1,14 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+        "jsx": true
+    }
+  },
+  "ignorePatterns": ["*.vue"],
+  "rules": {
+    "space-before-function-paren": "off",
+    "Unexpected token <": "off"
+  }
+}

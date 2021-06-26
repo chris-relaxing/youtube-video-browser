@@ -1,4 +1,9 @@
-# video-browser2
+# video-browser
+
+<!--  Command line getting the server running -->
+<!-- 1. cd to  C:\Users\Chris\video-browser> -->
+<!-- 2. run the command: npm run serve -->
+<!-- 3. In the browser, go to http://localhost:8080/ -->
 
 ## Project setup
 ```
