@@ -3,7 +3,7 @@
 This Vue.js app has a search bar where you can pull in five videos from the YouTube api. Each video on the right side of the single page application can be clicked to
 watch that video in the left side of the screen. Video descriptions will appear below the chosen video. This application was built with four separate Vue components. 
 
-![alt text](https://bluegalaxy.info/images/youtube-video-browser.jpg)
+![alt text](https://bluegalaxy.info/images/youtube-video-browser-new.jpg)
 
 ## How to get the server running from the command line:
 
